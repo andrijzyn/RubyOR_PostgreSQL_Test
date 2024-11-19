@@ -22,7 +22,7 @@
 
 2. To install dependencies, run the command:
 ```bash
-pnpm install
+pnpm install @hotwired/turbo-rails @hotwired/stimulus
 ```
  
 3. Install Ruby:
